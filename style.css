@@ -91,9 +91,8 @@ h1,
   flex-direction: column;
   padding: 75px;
   align-items: center;
-  justify-content: center; 
-  gap:50px;
-
+  justify-content: center;
+  gap: 50px;
 }
 
 h2 {
@@ -108,10 +107,10 @@ h2 {
   justify-content: center;
 }
 
-.container{
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
 }
 .empty.image {
   width: 150px;
@@ -121,7 +120,34 @@ h2 {
   flex-wrap: wrap;
 }
 
-.container > p{
-    color:#5d5d5d;
-    text-align: center;
+.container > p {
+  color: #5d5d5d;
+  text-align: center;
+}
+
+/* ------------------- Third Section ------------------- */
+
+.third.content {
+  background: #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
+
+.quote {
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1f2937;
+  text-align: justify;
+  width: 850px;
+}
+
+.author {
+  font-weight: 700;
+  font-size: 24px;
+  text-align: right;
+  width:700px;
 }
