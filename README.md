@@ -8,7 +8,9 @@ Focused Topics for this Project:
 - CSS Foundation - Basic CSS style & Flexbox
 
 Live Version:
-N/A
+https://keishaharris.github.io/odin-landing-page/
 
 Project Takeaways:
-TO BE DETRERMINED
+- The project was relatively sikmple and straightforward.
+- Re-enforcement of CSS Flebox and learned how to style websites in a
+more structured fashion.
